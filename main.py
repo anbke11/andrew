@@ -1,4 +1,4 @@
-meme.dict = { 
+meme_dict = { 
             "LOL" - "tanggapan terhadap sesuatu yang lucu",
             "CRINGE" - "sesuatu yang aneh atau memalukan",
             "ROFL" - "tanggapan terhadap lelucon",
