@@ -6,9 +6,10 @@ meme_dict = {
             "CREEPY" - "menakutkan, tidak menyenangkan",
             "AGGRO" - "untuk menjadi agresif/marah"
             }
-word = input("Ketik kata yang tidak kamu mengerti (gunakan huruf kapital semua!):")
+
+word = input("Ketik kata yang tidak kamu mengerti (gunakan huruf kapital semua!): ")
 
 if word in meme_dict.keys():
-    print('makna kata:', meme_dict.[word])
+    print('makna kata:', meme_dict[word])
 else:
     print('Kata tidak ditemukan')
