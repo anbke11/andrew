@@ -1,3 +1,4 @@
+import random
 meme_dict = { 
             "LOL" - "tanggapan terhadap sesuatu yang lucu",
             "CRINGE" - "sesuatu yang aneh atau memalukan",
